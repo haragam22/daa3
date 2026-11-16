@@ -1,0 +1,196 @@
+algorithm_id,algorithm,group,case,n,run_number,seed,batch_calls,elapsed_total_ns,elapsed_per_call_ms,valid,notes
+A1,bubble_sort,Sorting,random,500,1,20261117,1,10706400,10.7064,True,
+A1,bubble_sort,Sorting,random,500,2,20261117,1,12619100,12.6191,True,
+A1,bubble_sort,Sorting,random,500,3,20261117,1,10706300,10.7063,True,
+A1,bubble_sort,Sorting,random,1000,1,20261117,1,48302100,48.3021,True,
+A1,bubble_sort,Sorting,random,1000,2,20261117,1,52600900,52.6009,True,
+A1,bubble_sort,Sorting,random,1000,3,20261117,1,54156800,54.1568,True,
+A1,bubble_sort,Sorting,random,2000,1,20261117,1,153290000,153.29,True,
+A1,bubble_sort,Sorting,random,2000,2,20261117,1,154088400,154.0884,True,
+A1,bubble_sort,Sorting,random,2000,3,20261117,1,164326200,164.3262,True,
+A1,bubble_sort,Sorting,random,4000,1,20261117,1,664646500,664.6465,True,
+A1,bubble_sort,Sorting,random,4000,2,20261117,1,1764295700,1764.2957,True,
+A1,bubble_sort,Sorting,random,4000,3,20261117,1,1589654400,1589.6544,True,
+A1,bubble_sort,Sorting,random,8000,1,20261117,1,6359730200,6359.7302,True,
+A1,bubble_sort,Sorting,random,8000,2,20261117,1,7075436800,7075.4368,True,
+A1,bubble_sort,Sorting,random,8000,3,20261117,1,6878412500,6878.4125,True,
+A1,bubble_sort,Sorting,sorted,250,1,20261117,1,174800,0.1748,True,
+A1,bubble_sort,Sorting,sorted,250,2,20261117,1,29800,0.0298,True,
+A1,bubble_sort,Sorting,sorted,250,3,20261117,1,29700,0.0297,True,
+A1,bubble_sort,Sorting,sorted,500,1,20261117,1,60400,0.0604,True,
+A1,bubble_sort,Sorting,sorted,500,2,20261117,1,64100,0.0641,True,
+A1,bubble_sort,Sorting,sorted,500,3,20261117,1,64500,0.0645,True,
+A1,bubble_sort,Sorting,sorted,1000,1,20261117,1,143200,0.1432,True,
+A1,bubble_sort,Sorting,sorted,1000,2,20261117,1,135700,0.1357,True,
+A1,bubble_sort,Sorting,sorted,1000,3,20261117,1,134200,0.1342,True,
+A1,bubble_sort,Sorting,sorted,2000,1,20261117,1,258500,0.2585,True,
+A1,bubble_sort,Sorting,sorted,2000,2,20261117,1,276900,0.2769,True,
+A1,bubble_sort,Sorting,sorted,2000,3,20261117,1,277200,0.2772,True,
+A1,bubble_sort,Sorting,sorted,4000,1,20261117,1,526600,0.5266,True,
+A1,bubble_sort,Sorting,sorted,4000,2,20261117,1,584500,0.5845,True,
+A1,bubble_sort,Sorting,sorted,4000,3,20261117,1,581100,0.5811,True,
+A1,bubble_sort,Sorting,reverse_sorted,250,1,20261117,1,6451200,6.4512,True,
+A1,bubble_sort,Sorting,reverse_sorted,250,2,20261117,1,5952800,5.9528,True,
+A1,bubble_sort,Sorting,reverse_sorted,250,3,20261117,1,6349700,6.3497,True,
+A1,bubble_sort,Sorting,reverse_sorted,500,1,20261117,1,28912000,28.912,True,
+A1,bubble_sort,Sorting,reverse_sorted,500,2,20261117,1,26240200,26.2402,True,
+A1,bubble_sort,Sorting,reverse_sorted,500,3,20261117,1,28014500,28.0145,True,
+A1,bubble_sort,Sorting,reverse_sorted,1000,1,20261117,1,121794600,121.7946,True,
+A1,bubble_sort,Sorting,reverse_sorted,1000,2,20261117,1,127116300,127.1163,True,
+A1,bubble_sort,Sorting,reverse_sorted,1000,3,20261117,1,115437300,115.4373,True,
+A1,bubble_sort,Sorting,reverse_sorted,2000,1,20261117,1,530186100,530.1861,True,
+A1,bubble_sort,Sorting,reverse_sorted,2000,2,20261117,1,515563800,515.5638,True,
+A1,bubble_sort,Sorting,reverse_sorted,2000,3,20261117,1,534739100,534.7391,True,
+A1,bubble_sort,Sorting,reverse_sorted,4000,1,20261117,1,2304760100,2304.7601,True,
+A1,bubble_sort,Sorting,reverse_sorted,4000,2,20261117,1,2319895000,2319.895,True,
+A1,bubble_sort,Sorting,reverse_sorted,4000,3,20261117,1,2206948100,2206.9481,True,
+A2,insertion_sort,Sorting,random,500,1,20261117,1,10272300,10.2723,True,
+A2,insertion_sort,Sorting,random,500,2,20261117,1,10536800,10.5368,True,
+A2,insertion_sort,Sorting,random,500,3,20261117,1,9813000,9.813,True,
+A2,insertion_sort,Sorting,random,1000,1,20261117,1,40986500,40.9865,True,
+A2,insertion_sort,Sorting,random,1000,2,20261117,1,44124800,44.1248,True,
+A2,insertion_sort,Sorting,random,1000,3,20261117,1,44595000,44.595,True,
+A2,insertion_sort,Sorting,random,2000,1,20261117,1,210281100,210.2811,True,
+A2,insertion_sort,Sorting,random,2000,2,20261117,1,202172900,202.1729,True,
+A2,insertion_sort,Sorting,random,2000,3,20261117,1,204116400,204.1164,True,
+A2,insertion_sort,Sorting,random,4000,1,20261117,1,802836200,802.8362,True,
+A2,insertion_sort,Sorting,random,4000,2,20261117,1,835146200,835.1462,True,
+A2,insertion_sort,Sorting,random,4000,3,20261117,1,886137500,886.1375,True,
+A2,insertion_sort,Sorting,random,8000,1,20261117,1,1968608400,1968.6084,True,
+A2,insertion_sort,Sorting,random,8000,2,20261117,1,1111289800,1111.2898,True,
+A2,insertion_sort,Sorting,random,8000,3,20261117,1,1110949000,1110.949,True,
+A2,insertion_sort,Sorting,sorted,250,1,20261117,1,64300,0.0643,True,
+A2,insertion_sort,Sorting,sorted,250,2,20261117,1,19700,0.0197,True,
+A2,insertion_sort,Sorting,sorted,250,3,20261117,1,18800,0.0188,True,
+A2,insertion_sort,Sorting,sorted,500,1,20261117,1,39700,0.0397,True,
+A2,insertion_sort,Sorting,sorted,500,2,20261117,1,39700,0.0397,True,
+A2,insertion_sort,Sorting,sorted,500,3,20261117,1,40400,0.0404,True,
+A2,insertion_sort,Sorting,sorted,1000,1,20261117,1,80200,0.0802,True,
+A2,insertion_sort,Sorting,sorted,1000,2,20261117,1,79300,0.0793,True,
+A2,insertion_sort,Sorting,sorted,1000,3,20261117,1,80600,0.0806,True,
+A2,insertion_sort,Sorting,sorted,2000,1,20261117,1,178300,0.1783,True,
+A2,insertion_sort,Sorting,sorted,2000,2,20261117,1,165100,0.1651,True,
+A2,insertion_sort,Sorting,sorted,2000,3,20261117,1,168000,0.168,True,
+A2,insertion_sort,Sorting,sorted,4000,1,20261117,1,550900,0.5509,True,
+A2,insertion_sort,Sorting,sorted,4000,2,20261117,1,546300,0.5463,True,
+A2,insertion_sort,Sorting,sorted,4000,3,20261117,1,595400,0.5954,True,
+A2,insertion_sort,Sorting,reverse_sorted,250,1,20261117,1,2770400,2.7704,True,
+A2,insertion_sort,Sorting,reverse_sorted,250,2,20261117,1,2790400,2.7904,True,
+A2,insertion_sort,Sorting,reverse_sorted,250,3,20261117,1,2218400,2.2184,True,
+A2,insertion_sort,Sorting,reverse_sorted,500,1,20261117,1,7300100,7.3001,True,
+A2,insertion_sort,Sorting,reverse_sorted,500,2,20261117,1,7301000,7.301,True,
+A2,insertion_sort,Sorting,reverse_sorted,500,3,20261117,1,10629200,10.6292,True,
+A2,insertion_sort,Sorting,reverse_sorted,1000,1,20261117,1,31441000,31.441,True,
+A2,insertion_sort,Sorting,reverse_sorted,1000,2,20261117,1,41531500,41.5315,True,
+A2,insertion_sort,Sorting,reverse_sorted,1000,3,20261117,1,31186300,31.1863,True,
+A2,insertion_sort,Sorting,reverse_sorted,2000,1,20261117,1,134894600,134.8946,True,
+A2,insertion_sort,Sorting,reverse_sorted,2000,2,20261117,1,135757100,135.7571,True,
+A2,insertion_sort,Sorting,reverse_sorted,2000,3,20261117,1,129812500,129.8125,True,
+A2,insertion_sort,Sorting,reverse_sorted,4000,1,20261117,1,545901100,545.9011,True,
+A2,insertion_sort,Sorting,reverse_sorted,4000,2,20261117,1,530657900,530.6579,True,
+A2,insertion_sort,Sorting,reverse_sorted,4000,3,20261117,1,537019200,537.0192,True,
+A3,merge_sort,Sorting,random,500,1,20261117,1,594400,0.5944,True,
+A3,merge_sort,Sorting,random,500,2,20261117,1,565200,0.5652,True,
+A3,merge_sort,Sorting,random,500,3,20261117,1,573100,0.5731,True,
+A3,merge_sort,Sorting,random,1000,1,20261117,1,1265900,1.2659,True,
+A3,merge_sort,Sorting,random,1000,2,20261117,1,1986800,1.9868,True,
+A3,merge_sort,Sorting,random,1000,3,20261117,1,1238400,1.2384,True,
+A3,merge_sort,Sorting,random,2000,1,20261117,1,2741900,2.7419,True,
+A3,merge_sort,Sorting,random,2000,2,20261117,1,2726000,2.726,True,
+A3,merge_sort,Sorting,random,2000,3,20261117,1,2773900,2.7739,True,
+A3,merge_sort,Sorting,random,4000,1,20261117,1,5905800,5.9058,True,
+A3,merge_sort,Sorting,random,4000,2,20261117,1,6091200,6.0912,True,
+A3,merge_sort,Sorting,random,4000,3,20261117,1,5902200,5.9022,True,
+A3,merge_sort,Sorting,random,8000,1,20261117,1,13563100,13.5631,True,
+A3,merge_sort,Sorting,random,8000,2,20261117,1,16450800,16.4508,True,
+A3,merge_sort,Sorting,random,8000,3,20261117,1,13656300,13.6563,True,
+A3,merge_sort,Sorting,sorted,250,1,20261117,1,274000,0.274,True,
+A3,merge_sort,Sorting,sorted,250,2,20261117,1,222300,0.2223,True,
+A3,merge_sort,Sorting,sorted,250,3,20261117,1,221300,0.2213,True,
+A3,merge_sort,Sorting,sorted,500,1,20261117,1,499500,0.4995,True,
+A3,merge_sort,Sorting,sorted,500,2,20261117,1,481100,0.4811,True,
+A3,merge_sort,Sorting,sorted,500,3,20261117,1,772900,0.7729,True,
+A3,merge_sort,Sorting,sorted,1000,1,20261117,1,1058500,1.0585,True,
+A3,merge_sort,Sorting,sorted,1000,2,20261117,1,1074300,1.0743,True,
+A3,merge_sort,Sorting,sorted,1000,3,20261117,1,1047900,1.0479,True,
+A3,merge_sort,Sorting,sorted,2000,1,20261117,1,2330300,2.3303,True,
+A3,merge_sort,Sorting,sorted,2000,2,20261117,1,2262100,2.2621,True,
+A3,merge_sort,Sorting,sorted,2000,3,20261117,1,2262500,2.2625,True,
+A3,merge_sort,Sorting,sorted,4000,1,20261117,1,5097000,5.097,True,
+A3,merge_sort,Sorting,sorted,4000,2,20261117,1,6165200,6.1652,True,
+A3,merge_sort,Sorting,sorted,4000,3,20261117,1,5541900,5.5419,True,
+A3,merge_sort,Sorting,reverse_sorted,250,1,20261117,1,254400,0.2544,True,
+A3,merge_sort,Sorting,reverse_sorted,250,2,20261117,1,380800,0.3808,True,
+A3,merge_sort,Sorting,reverse_sorted,250,3,20261117,1,360100,0.3601,True,
+A3,merge_sort,Sorting,reverse_sorted,500,1,20261117,1,509300,0.5093,True,
+A3,merge_sort,Sorting,reverse_sorted,500,2,20261117,1,494500,0.4945,True,
+A3,merge_sort,Sorting,reverse_sorted,500,3,20261117,1,486000,0.486,True,
+A3,merge_sort,Sorting,reverse_sorted,1000,1,20261117,1,1077200,1.0772,True,
+A3,merge_sort,Sorting,reverse_sorted,1000,2,20261117,1,2213600,2.2136,True,
+A3,merge_sort,Sorting,reverse_sorted,1000,3,20261117,1,1064100,1.0641,True,
+A3,merge_sort,Sorting,reverse_sorted,2000,1,20261117,1,2328100,2.3281,True,
+A3,merge_sort,Sorting,reverse_sorted,2000,2,20261117,1,2447300,2.4473,True,
+A3,merge_sort,Sorting,reverse_sorted,2000,3,20261117,1,2338800,2.3388,True,
+A3,merge_sort,Sorting,reverse_sorted,4000,1,20261117,1,7416900,7.4169,True,
+A3,merge_sort,Sorting,reverse_sorted,4000,2,20261117,1,4914200,4.9142,True,
+A3,merge_sort,Sorting,reverse_sorted,4000,3,20261117,1,6675200,6.6752,True,
+A4,binary_search,Divide and Conquer,present_mid,1000,1,20261117,524288,88619900,0.00016902904510498047,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,1000,2,20261117,524288,81224500,0.00015492343902587892,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,1000,3,20261117,524288,78868000,0.00015042877197265624,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,2000,1,20261117,524288,84949200,0.00016202774047851563,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,2000,2,20261117,524288,82026700,0.0001564535140991211,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,2000,3,20261117,524288,86046800,0.00016412124633789063,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,4000,1,20261117,524288,86541500,0.00016506481170654297,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,4000,2,20261117,524288,88304400,0.00016842727661132813,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,4000,3,20261117,524288,84084500,0.00016037845611572267,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,8000,1,20261117,524288,109052300,0.0002080007553100586,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,8000,2,20261117,524288,96564200,0.0001841815948486328,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,8000,3,20261117,524288,89985200,0.0001716331481933594,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,16000,1,20261117,524288,87490200,0.0001668743133544922,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,16000,2,20261117,524288,94370900,0.00017999820709228517,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_mid,16000,3,20261117,524288,85000200,0.00016212501525878908,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,1000,1,20261117,524288,555221500,0.0010590009689331055,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,1000,2,20261117,524288,537174500,0.0010245790481567382,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,1000,3,20261117,524288,555988500,0.0010604639053344727,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,2000,1,20261117,524288,569740800,0.0010866943359375,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,2000,2,20261117,524288,591149900,0.001127528953552246,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,2000,3,20261117,524288,569193700,0.0010856508255004883,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,4000,1,20261117,524288,635947300,0.0012129732131958009,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,4000,2,20261117,524288,633976200,0.001209213638305664,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,4000,3,20261117,524288,639154900,0.0012190912246704102,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,8000,1,20261117,524288,734424200,0.0014008029937744141,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,8000,2,20261117,524288,717537300,0.0013685937881469726,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,8000,3,20261117,524288,709892400,0.0013540122985839843,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,16000,1,20261117,524288,795188800,0.0015167022705078125,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,16000,2,20261117,524288,763330000,0.0014559364318847657,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,present_last,16000,3,20261117,524288,798656800,0.0015233169555664062,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,1000,1,20261117,524288,536529900,0.0010233495712280273,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,1000,2,20261117,524288,536271700,0.0010228570938110352,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,1000,3,20261117,524288,530947000,0.0010127010345458984,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,2000,1,20261117,524288,611857700,0.0011670259475708008,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,2000,2,20261117,524288,588187200,0.0011218780517578124,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,2000,3,20261117,524288,585800800,0.0011173263549804687,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,4000,1,20261117,524288,642625500,0.0012257108688354492,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,4000,2,20261117,524288,636915000,0.0012148189544677734,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,4000,3,20261117,524288,658650900,0.0012562768936157226,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,8000,1,20261117,524288,733172800,0.0013984161376953126,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,8000,2,20261117,524288,801080400,0.0015279396057128907,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,8000,3,20261117,524288,714504800,0.0013628097534179688,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,16000,1,20261117,524288,765561900,0.00146019344329834,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,16000,2,20261117,524288,756842600,0.0014435626983642577,True,common binary loop/checksum overhead included
+A4,binary_search,Divide and Conquer,absent,16000,3,20261117,524288,762649400,0.0014546382904052735,True,common binary loop/checksum overhead included
+A5,activity_selection,Greedy method,random_unsorted,1000,1,20261117,1,283300,0.2833,True,
+A5,activity_selection,Greedy method,random_unsorted,1000,2,20261117,1,305100,0.3051,True,
+A5,activity_selection,Greedy method,random_unsorted,1000,3,20261117,1,289900,0.2899,True,
+A5,activity_selection,Greedy method,random_unsorted,2000,1,20261117,1,603800,0.6038,True,
+A5,activity_selection,Greedy method,random_unsorted,2000,2,20261117,1,633600,0.6336,True,
+A5,activity_selection,Greedy method,random_unsorted,2000,3,20261117,1,615600,0.6156,True,
+A5,activity_selection,Greedy method,random_unsorted,4000,1,20261117,1,1356100,1.3561,True,
+A5,activity_selection,Greedy method,random_unsorted,4000,2,20261117,1,1424200,1.4242,True,
+A5,activity_selection,Greedy method,random_unsorted,4000,3,20261117,1,1457800,1.4578,True,
+A5,activity_selection,Greedy method,random_unsorted,8000,1,20261117,1,4336000,4.336,True,
+A5,activity_selection,Greedy method,random_unsorted,8000,2,20261117,1,3266000,3.266,True,
+A5,activity_selection,Greedy method,random_unsorted,8000,3,20261117,1,4691100,4.6911,True,
+A5,activity_selection,Greedy method,random_unsorted,16000,1,20261117,1,7245000,7.245,True,
+A5,activity_selection,Greedy method,random_unsorted,16000,2,20261117,1,7527300,7.5273,True,
+A5,activity_selection,Greedy method,random_unsorted,16000,3,20261117,1,9021100,9.0211,True,

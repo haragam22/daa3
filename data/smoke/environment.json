@@ -1,0 +1,48 @@
+{
+  "python_version": "3.14.0",
+  "matplotlib_version": "3.11.2",
+  "pytest_version": "9.2.0",
+  "os": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "architecture": "AMD64",
+  "editor": "Not recorded; Python CLI used",
+  "seed": 20261117,
+  "timestamp_utc": "2026-11-16T22:13:19.201556+00:00",
+  "run_count": 3,
+  "timer": "perf_counter_ns",
+  "timer_resolution": 1e-07,
+  "git_commit": null,
+  "source_file": "plan.md; original PDF unavailable",
+  "batch_calls": 524288,
+  "data_sizes": {
+    "sort": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+    ],
+    "supplemental": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+    ],
+    "binary": [
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+    ],
+    "activity": [
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+    ]
+  },
+  "notes": "Local CLI; power mode and background load not controlled. No overhead subtraction."
+}
